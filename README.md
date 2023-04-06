@@ -1,6 +1,8 @@
 # Video_Game_Sales
 
-This project analyzes video game sales data to identify trends and patterns in the gaming industry. The dataset used in this analysis includes information on video game sales from various regions, such as North America, Europe, and Japan, as well as details about each game's publisher, platform, genre, and release year.
+This project analyzes video game sales data to identify trends and patterns in the gaming industry. The dataset used in this analysis includes information on video game sales from various regions, such as North America, Europe, and Japan, as well as details about each game's publisher, platform, genre, and release year. The source file is downloaded from kaggle.com
+
+This is the link to the dataset: https://www.kaggle.com/datasets/ulrikthygepedersen/video-games-sales
 
 The main objective of this project is to provide insights into the video game market and answer questions such as:
 
